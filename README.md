@@ -2,11 +2,11 @@
 
 This is a Python object-oriented program that creates a virtual file system. It contains a PlainFile, Directory, and FileSystem class.
 
-Usage
+# Usage
 
 To use this program, create an instance of the FileSystem class and use the available methods to manipulate the virtual file system.
 
-Classes
+# Classes
 
 PlainFile
 This class represents a plain file in the file system. It has the following methods:
